@@ -4,12 +4,15 @@
   <a href="https://www.linkedin.com/in/nicoarato/">
     <img align="center" alt="Nicolas Arato's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-
   <a href="https://twitter.com/nicoarato">
     <img align="center" alt="NicoArato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   
 </p>
+
+
+
+<img align="right" alt="GIF" src="https://github.com/nicoarato/nicoarato/blob/master/images/code.gif?raw=true" width="400" height="240"/>
 
 <!--Here are some ideas to get you started: -->
 
@@ -18,7 +21,6 @@
 - 📫 How to reach me: <a href="mailto:nico.arato@gmail.com"><img height="20" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 
 <br>
-
 
 
 **Languages and Tools:**  
