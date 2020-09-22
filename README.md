@@ -7,7 +7,6 @@
   <a href="https://twitter.com/nicoarato">
     <img align="center" alt="NicoArato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  
 </p>
 
 
@@ -18,7 +17,7 @@
 
 - 🔭 I’m currently working on hybrid app development.
 - 🌱 I’m currently learning React and GraphQL.
-- 📫 How to reach me: <a href="mailto:nico.arato@gmail.com"><img height="20" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+- 📫 How to reach me: <a href="mailto:nico.arato@gmail.com"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email"/></a>
 
 <br>
 
