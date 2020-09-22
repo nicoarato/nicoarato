@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nico Arato
 
+<br>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/nicoarato/">
     <img align="center" alt="Nicolas Arato's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
