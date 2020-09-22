@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nico Arato
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/nicoarato/">
     <img align="center" alt="Nicolas Arato's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -8,8 +8,8 @@
   <a href="https://twitter.com/nicoarato">
     <img align="center" alt="NicoArato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
+  
 </p>
-
 
 <!--Here are some ideas to get you started: -->
 
@@ -17,7 +17,9 @@
 - 🌱 I’m currently learning React and GraphQL.
 - 📫 How to reach me: <a href="mailto:nico.arato@gmail.com"><img height="20" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 
-<img align="right" alt="meme" src="https://github.com/nicoarato/nicoarato/code.gif?raw=true" width="400" height="240" />
+<br>
+
+
 
 **Languages and Tools:**  
 
