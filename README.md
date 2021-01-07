@@ -19,7 +19,7 @@
 <!--Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on hybrid app development.
-- 🌱 I’m currently learning React and GraphQL.
+- 🌱 I’m currently learning React and Docker.
 - 📫 How to reach me: <a href="mailto:nico.arato@gmail.com"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email"/></a>
 
 <br>
