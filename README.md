@@ -1,32 +1,25 @@
 ### Hey there I'm Nico Arato
 
-<br>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicoarato/">
-    <img align="center" alt="Nicolas Arato's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/nicoarato">
-    <img align="center" alt="NicoArato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-</p>
-
-
-
-<img align="right" alt="GIF" src="https://github.com/nicoarato/nicoarato/blob/master/images/code.gif?raw=true" width="400" height="240"/>
-
-
 <!--Here are some ideas to get you started: -->
+I am a software development enthusiast who has had the opportunity to explore the world of React, Sass, Node.js, and more in the last year. Through my projects, I have been able to build web applications that seek to combine functionality and style in a harmonious way with an impact in Latin America.
+<br>
+<br>
+I have had the opportunity to familiarize myself with testing tools such as Cypress, Jest and Testing Library to ensure the quality and performance of my developments. While I value my accomplishments thus far, I am also aware that there is always more to learn. I am excited to continue taking on challenges that allow me to expand my skills and make a meaningful contribution to the world of development.
 
-- 🔭 I’m currently working on hybrid app development.
-- 🌱 I’m currently learning React and Docker.
-- 📫 How to reach me: <a href="mailto:nico.arato@gmail.com"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email"/></a>
+### Languages and Tools:
+
+Current year: <br>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 <br>
-
-
-**Languages and Tools:**  
-Current year: <br>
+Previous years: <br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
@@ -36,8 +29,6 @@ Current year: <br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<br>
-Last year:<br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
