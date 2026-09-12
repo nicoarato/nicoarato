@@ -10,7 +10,7 @@ I usually work with TypeScript, JavaScript, Angular/Ionic, React, Node.js, NestJ
 
 ### Highlighted Work
 
-- [Yviko / SDD Arbolado](https://github.com/nicoarato/sdd-arbolado): spec-first MVP for urban tree management and field operations. It combines a React PWA, Leaflet maps, a NestJS + Prisma API, PostgreSQL, inspector roles, photo evidence, Telegram caption ingestion, and a bibliographic risk matrix for technical tree-risk assessment.
+- [Canopia / SDD Arbolado](https://github.com/nicoarato/sdd-arbolado): spec-first MVP for urban tree management and field operations. It combines a React PWA, Leaflet maps, a NestJS + Prisma API, PostgreSQL, inspector roles, photo evidence, Telegram caption ingestion, and a bibliographic risk matrix for technical tree-risk assessment.
 - [PharMaps](https://github.com/nicoarato/pharMaps-SFv2.0): map-based local service for finding pharmacies, duty schedules, and nearby options using structured local data.
 
 ### Current Interests
