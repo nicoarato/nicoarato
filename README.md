@@ -4,7 +4,7 @@ I'm a Software Engineer based in Santa Fe, Argentina, currently working at Merca
 
 I like building useful web products with a strong focus on real user needs, clean interfaces, field operations, and reliable data. Lately, my interests are around geolocation, civic-tech platforms, AI-assisted workflows, and product ideas that can become practical tools.
 
-Two of my current side projects explore that direction: PharMaps, a map-based app for finding pharmacies and duty schedules; and Yviko / SDD Arbolado, a PWA/API MVP for urban tree inventory, field operations, emergency triage, and technical risk assessment.
+Two of my current side projects explore that direction: PharMaps, a map-based app for finding pharmacies and duty schedules; and Canopia / SDD Arbolado, a PWA/API MVP for urban tree inventory, field operations, emergency triage, and technical risk assessment.
 
 I usually work with TypeScript, JavaScript, Angular/Ionic, React, Node.js, NestJS, Prisma, PostgreSQL, Leaflet, and mapping APIs. I'm also exploring how AI can improve automation, data processing, product discovery, and the way technical specs become working software.
 
